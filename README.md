@@ -4,9 +4,9 @@
 
 ## Установка
 1. Наличие БУС (Старт и выше)
-2. Ставим модуль [awz.admin](https://github.com/zahalski/awz.admin)
-3. Ставим модуль [awz.bxapi](https://github.com/zahalski/awz.bxapi)
-4. Загружаем [приложение](https://github.com/zahalski/bx24.smarts.app) в /bx24/smarts/
+2. Ставим модуль [awz.admin](https://github.com/azahalski/awz.admin)
+3. Ставим модуль [awz.bxapi](https://github.com/azahalski/awz.bxapi)
+4. Загружаем [приложение](https://github.com/azahalski/bx24.smarts.app) в /bx24/smarts/
 
 ## Добавление приложения в Битрикс24
 1. Переходим в Маркет - Разработчикам - Другое - Локальное приложение
